@@ -6,7 +6,7 @@ I build responsive, accessible, component-driven web apps. I'm a fresher with th
 
 ## 🛠️ Tech Stack
 
-React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB, Flutter, Figma, Git
+React.js, JavaScript (ES6+), HTML5, CSS, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB, Flutter, Figma, Git
 
 ## 🚀 Projects
 
