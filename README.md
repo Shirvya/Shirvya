@@ -31,10 +31,6 @@ React.js, JavaScript (ES6+), HTML5, CSS, Tailwind CSS, Bootstrap, Node.js, Expre
 
 B.Tech in Computer Science & Engineering, Tula's Institute, Dehradun (2021 to 2025)
 
-## 🎸 Beyond code
-
-I also play guitar, and this is where I share my practice notes.
-
 ## 📫 Let's connect
 
 - Email: shirvyabhardwaj9491@gmail.com
