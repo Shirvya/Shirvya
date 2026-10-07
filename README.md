@@ -38,6 +38,6 @@ I also play guitar, and this is where I share my practice notes.
 ## 📫 Let's connect
 
 - Email: shirvyabhardwaj9491@gmail.com
-- LinkedIn: add your profile link
+- LinkedIn: https://www.linkedin.com/in/shirvya-bhardwaj-79392b234?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 I'm open to opportunities and collaborations. Say hi!
