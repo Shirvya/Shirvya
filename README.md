@@ -1,39 +1,18 @@
-# Hi, I'm Shirvya Bhardwaj 👋
+# 💫 About Me:
+🔭 I'm currently working on MERN stack projects and my developer portfolio<br>👯 I'm looking to collaborate on React.js and full-stack web projects<br>🤝 I'm looking for help with data structures, system design and interview preparation<br>🌱 I'm currently learning TypeScript, Next.js and advanced React patterns<br>💬 Ask me about React.js, Tailwind CSS, responsive UI/UX and Figma to code<br>⚡ Fun fact: I play guitar 🎸 and I won the Smart Innovator Award for a Pose Estimation app
 
-**React.js Developer | Full-Stack Developer (MERN) | Noida, India**
 
-I build responsive, accessible, component-driven web apps. I'm a fresher with three internships behind me, and I'm looking to contribute to a production React team.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shirvya-bhardwaj-79392b234?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shirvya Bhardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shirvyabhardwaj9491@gmail.com) 
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shirvya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Shirvya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shirvya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-React.js, JavaScript (ES6+), HTML5, CSS, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB, Flutter, Figma, Git
+---
+[![](https://komarev.com/ghpvc/?username=Shirvya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects
-
-- **Dynamic Web App for Clothes Printing** (React.js, Node.js, MongoDB): a full-stack app for product customization and cart checkout, with reusable components, client-side validation and REST API integration.
-- **Pose Estimation** (React.js): a responsive fitness posture analysis UI with real-time visualization, built for smooth performance with minimal DOM updates. It won the Smart Innovator Award at Tula's Institute Tech Fest 2023.
-- **Healthcare App** (Flutter, Figma): pixel-accurate, cross-platform screens for appointment booking, patient monitoring and notifications, converted from Figma prototypes.
-
-## 💼 Experience
-
-- **Web Development Intern, CodSoft**: improved mobile responsiveness and UI/UX, and delivered a redesign two weeks early.
-- **Web Developer Intern, OctaNet**: built a responsive React landing page for a social media agency, with ~30% higher user engagement.
-- **Web Developer Intern, Zaalima Developers**: built frontend features, reusable form components and client-side validation for internal tools.
-
-## 🏆 Highlights
-
-- 🥇 Best Intern Award, CodSoft (2024)
-- 💡 Smart Innovator Award, Tula's Institute Tech Fest (2023)
-- 📜 Certificate of Excellence, OctaNet Software Services (2024)
-- 🎤 Led technical workshops and hackathons for 200+ students
-
-## 🎓 Education
-
-B.Tech in Computer Science & Engineering, Tula's Institute, Dehradun (2021 to 2025)
-
-## 📫 Let's connect
-
-- Email: shirvyabhardwaj9491@gmail.com
-- LinkedIn: https://www.linkedin.com/in/shirvya-bhardwaj-79392b234?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-I'm open to opportunities and collaborations. Say hi!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
